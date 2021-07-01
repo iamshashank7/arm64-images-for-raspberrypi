@@ -1,6 +1,6 @@
 # Hyperledger Fabric binaries for-Raspberrypi(arm64)
 This repository is mainly about how you can manually build Hyperledger images for raspberrypi
-This repository provides precompiled Fabric binaries (based on Fabric v2.1) for AArch64/ARM64 that were created as part of a project at Nitte Meenakshi Institute of Technology,Bengaluru. They may contain issues and will not be maintained.
+This repository provides precompiled Fabric binaries (based on Fabric v2.1) for AArch64/ARM64 that were created as part of a project at Nitte Meenakshi Institute of Technology, Bengaluru. They may contain issues and will not be maintained.
 
 Binary downloads can be found in the bin/ folder of the releases available here. Docker images are also available at https://hub.docker.com/u/thedemonfox.
 The binaries are distributed with a copy of https://github.com/hyperledger/fabric-samples that has been modified to use the ARM docker images.
