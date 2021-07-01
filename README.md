@@ -44,4 +44,4 @@ If everything worked correctly, the output should include something like [{"Key"
 
 14. To futher interact with the network, it might be necessary to specify the location of a configtx.yaml file. This can be achived through the command export FABRIC_CFG_PATH=$PWD/../config/, which uses the sample file provided with fabric-samples.
 
-# Things will be easy for you if you are using an ubuntu os(arm64 version which is easily avaliable on official raspberry site) on rasberrrypi. because ubuntu supports a lot of libaries that Raspberrypi doesn't.
+# Things will be easy for you if you are using an ubuntu os(arm64 version which is easily avaliable on official raspberry site) on rasberrrypi. Because ubuntu supports a lot of libaries that Raspberrypi doesn't.
